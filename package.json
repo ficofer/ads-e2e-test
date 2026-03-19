@@ -1,0 +1,6 @@
+{
+  "name": "ads-e2e-test",
+  "version": "1.0.0",
+  "description": "ADS E2E test project",
+  "scripts": { "test": "echo Tests passed" }
+}
